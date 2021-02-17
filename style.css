@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css?family=Titillium+Web");
+* {
+  font-family: "Titillium Web", sans-serif;
+  color: white;
+}
+/* body {
+  height: 700px;
+} */
+.navbar .navbar-brand {
+  font-size: 30px;
+}
+
+.myForm{
+    /* margin-right: 38%; */
+    /* margin-left: 38%; */
+    /* width: 150%; */
+    padding: 20px;
+    border: 3px solid white;
+}
+p{
+    text-align: center;
+    font-size: 20px;
+    padding-top: 10%;
+}
+/* h3{
+    padding: 10px;
+    color: blue;
+} */
